@@ -1,0 +1,19 @@
+{
+  "name": "shoppinglist-mern-stack",
+  "version": "1.0.0",
+  "description": "Shopping-list build with the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peeweetje/Shoppinglist-MERN-stack.git"
+  },
+  "author": "Petra Vos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peeweetje/Shoppinglist-MERN-stack/issues"
+  },
+  "homepage": "https://github.com/peeweetje/Shoppinglist-MERN-stack#readme"
+}
