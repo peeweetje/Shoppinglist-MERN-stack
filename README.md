@@ -3,5 +3,4 @@
 > - git clone
 > - `npm install`
 > - `npm run dev`
-
-# MERN stack
+> - `working with the mern-stack`
